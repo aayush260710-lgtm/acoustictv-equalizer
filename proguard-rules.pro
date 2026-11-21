@@ -1,0 +1,2 @@
+-keep class com.acoustictv.equalizer.model.** { *; }
+-keep class com.acoustictv.equalizer.service.** { *; }
